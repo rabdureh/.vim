@@ -1,10 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/rahji/.vim.20140521_1400665567'
-let g:netrw_dirhist_2='/Users/rahji/.vimviews'
-let g:netrw_dirhist_3='/Users/rahji/.vim/bundle/gundo'
-let g:netrw_dirhist_4='/Users/rahji/.vim/bundle/simple256'
-let g:netrw_dirhist_5='/Users/rahji/.vim/bundle'
-let g:netrw_dirhist_6='/Users/rahji'
-let g:netrw_dirhist_7='/Users/rahji/x/influxdb/.git'
-let g:netrw_dirhist_8='/Users/rahji/influxdb/.git'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/rahji/src'
+let g:netrw_dirhist_2='/Users/rahji/bin'
+let g:netrw_dirhist_3='/Users/rahji/root@viaintern2'
